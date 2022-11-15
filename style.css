@@ -63,6 +63,7 @@ h1{
     display: inline-block;
 }
 .button input{
+    background-color: white;
     color: black;
     width: 8.5em;
     border-radius: .1em;
