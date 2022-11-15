@@ -31,6 +31,7 @@ block.addEventListener("animationiteration", () => {
     console.log(random)
     block.style.left = left + "px";
     counter++;
+    document.getElementById("score").innerHTML = counter;
 });
 
 
